@@ -1,5 +1,5 @@
 {
-    "sender_private_key": "",
+    "sender_private_key": "6f6a11acdcf4b4d97d98a2e3c0bba5a3ffe8a9724b6e2ea26c1516e3985515a9",
     "default_network": "erc20",
     "networks": {
         "erc20": {
@@ -22,4 +22,5 @@
     "gas_multiplier": 1.2,
     "broadcast_nodes": 3,
     "retry_count": 2
+
 }
